@@ -1,6 +1,6 @@
 ### Welcome to Jin's Github 👋
 
-- 👩🏻‍💻 I'm an ex-Game Designer turned **Backend Developer**. I primarily use **Spring Boot**.
+- 👩🏻‍💻 I'm an ex-Game Designer. Currently I'm a **Backend Developer** mainly using **Spring Boot**.
 - 💡 I want to be a developer who can make a expandable service and help solve a problem in society.
 - 🙌🏻 Any kinds of feedback is most welcome!
 - 📧 How to reach me: jinxsne@gmail.com
