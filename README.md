@@ -1,4 +1,4 @@
-## Welcome to Kyungjin's Github 👋
+### Welcome to Kyungjin's Github 👋
 
 - 👩🏻‍💻 I'm an ex-Game Designer turned **Backend Developer**. I primarily use **Spring Boot**
 - 💡 I want to be a developer who can make a expandable service and help solve a problem in society.
@@ -6,7 +6,7 @@
 - 📧 How to reach me: jinxsne@gmail.com
 - 📚 Check my dev blog here! https://developer-jinnie.tistory.com/
 ------
-##### Tech Stack 🛠️
+#### Tech Stack 🛠️
 - **Programming Languages:** Java, Python
 - **Frameworks:** Spring Boot, Spring Security, Hibernate
 - **Databases:** MySQL, Oracle, Redis
