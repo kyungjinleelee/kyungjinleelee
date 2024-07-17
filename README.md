@@ -1,4 +1,4 @@
-### Welcome to Kyungjin's Github 👋
+### Welcome to Jin's Github 👋
 
 - 👩🏻‍💻 I'm an ex-Game Designer turned **Backend Developer**. I primarily use **Spring Boot**.
 - 💡 I want to be a developer who can make a expandable service and help solve a problem in society.
