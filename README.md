@@ -6,11 +6,12 @@
 - 📧 How to reach me: jinxsne@gmail.com
 - 📚 Check my dev blog here! https://developer-jinnie.tistory.com/
 ------
-## Tech Stack 🛠️
+# Tech Stack 🛠️
 - **Programming Languages:** Java, Python
 - **Frameworks:** Spring Boot, Spring Security, Hibernate
 - **Databases:** MySQL, Oracle, Redis
 - **Others:** Git, Docker, Docker-compose, AWS S3
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungjinleelee&layout=compact)](https://github.com/kyungjinleelee/github-readme-stats)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungjinleelee&show_icons=true&theme=radical)
