@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/SpringSecurity-43B02A?style=flat-square&logo=Spring Security&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Hibernate-232F3E?style=flat-square&logo=Hibernate&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-FF0000?style=flat-square&logo=Redis&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
