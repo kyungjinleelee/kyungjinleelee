@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringBoot-43B02A?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SpringSecurity-43B02A?style=flat-square&logo=Spring Security&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SpringSecurity-43B02A?style=flat-square&logo=Spring Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mybatis-232F3E?style=flat-square&logo=mybatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-232F3E?style=flat-square&logo=Hibernate&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
