@@ -1,4 +1,4 @@
-### Welcome to Jin's Github 👋
+## Welcome to Jin's Github 👋
 
 - 👩🏻‍💻 Currently I'm a **Backend Developer** mainly using **Spring Boot**.
 - 💡 I want to be a developer who can make a expandable, worthwhile service and help solve a problem in society.
@@ -34,13 +34,18 @@
 </p>
 
 ------
+#### Most Used Languages / Github Stats 💫
 <p align="center">
   <a href="https://github.com/kyungjinleelee/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungjinleelee&layout=compact" alt="Top Langs"/>
   </a>
-  <br>
+ 
   <a href="https://github.com/kyungjinleelee/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=kyungjinleelee" alt="Kyungjin's GitHub stats"/>
   </a>
 </p>
 
+------
+#### Algorithm Tier ✨
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyungjin7881)](https://solved.ac/kyungjin7881)
+ 
