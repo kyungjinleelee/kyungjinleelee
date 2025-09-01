@@ -1,6 +1,7 @@
 ## Welcome to Jin's Github 👋
 
 - 👩🏻‍💻 Currently I'm a **Backend Developer** mainly using **Spring Boot**.
+- 🤖 Recently, I have been deeply interested in AI and modern concepts like MCP, and I enjoy exploring how new technologies can transform development.
 - 💡 I want to be a developer who can make a expandable, worthwhile service and help solve a problem in society.
 - 🙌🏻 Any kinds of feedback is most welcome!
 - 📧 How to reach me: jinxsne@gmail.com
